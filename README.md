@@ -13,6 +13,11 @@ Number of Items – Total count of unique items sold.
 
 Average Rating – Customer satisfaction score based on product ratings.
 
+📊 Dashboard Preview
+
+<img width="1303" height="742" alt="image" src="https://github.com/user-attachments/assets/2bf4272a-f05a-4ca5-addf-657ef161d898" />
+
+
 📈 Tools & Technologies
 
 Power BI – Dashboard creation and visualization.
